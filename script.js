@@ -2,6 +2,8 @@
 // Allikas: https://mattboldt.com/demos/typed-js/
 
 var typed = new Typed('.element', {
-    strings: ["First sentence.", "Second sentence."],
-    typeSpeed: 30
+    strings: ["Tere tulemast retseptilehele!", "Leia oma lemmikretseptid siit!"],
+    typeSpeed: 30,
+    backSpeed: 30,
+    loop: true
 });

@@ -3,7 +3,7 @@
 
 var typed = new Typed('.element', {
     strings: ["Tere tulemast retseptilehele!", "Leia oma lemmikretseptid siit!"],
-    typeSpeed: 30,
-    backSpeed: 30,
+    typeSpeed: 50,
+    backSpeed: 50,
     loop: true
 });

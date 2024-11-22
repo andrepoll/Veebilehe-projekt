@@ -1,0 +1,114 @@
+@font-face {
+    font-family: YatraOne-Regular;
+    src: url(YatraOne-Regular.ttf);
+  }
+
+body {
+    background-color: beige;
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+}
+
+
+header {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+}
+
+header h1 {
+    font-family: YatraOne-Regular;
+    font-size: 3rem;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+
+}
+
+nav ul li {
+    flex: 1; 
+    text-align: center; 
+    border: 2px solid #e7b734; 
+    background-color: #FFE59F;
+    padding: 15px 0; 
+    box-sizing: border-box; 
+    font-family: YatraOne-Regular;
+    
+
+}
+nav ul li:first-child {
+    border-right: none;
+}
+nav ul li:last-child {
+    border-left: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #373228;
+    font-weight: bold;
+    font-size: 18px;
+    display: block; 
+    width: 100%;
+    height: 100%;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 50px;
+    padding: 0; 
+    box-sizing: border-box;
+
+    
+}
+
+
+section {
+    flex: 1;
+    padding: 20px; 
+    box-sizing: border-box;
+    margin-left: 50px;
+    margin-right: 50px;
+
+
+}
+
+
+section img {
+    width: 100%; 
+    height: 30vh; 
+    object-fit: cover; 
+
+}
+
+section h2 {
+    text-align: center;
+    background-color: #FFE59F;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0;
+    font-size: 15px;
+    color: #373228;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+
+}
+h2:hover {
+    background-color: #e7b734;
+    transition: 0.3s
+}
+section a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    margin-top: 100px;
+}

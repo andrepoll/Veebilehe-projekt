@@ -8,7 +8,7 @@ Tiimiliikmed - Karl Markus Kiudma, Andre Poll, Kristo Hark\
 Milline on tiimisisene tööjaotus?\
 Igal rühmaliikmel on oma vastutusala.
 
-Reeglid on jätkuvalt samad:
+Tiimisisesed reeglid:
 1. Ettenähtud kuupäevadest tuleb kinni pidada. 
 2. Kui keegi saab mingi ülesandega varem valmis siis sellest tuleb Facebooki grupis teistele teada anda, et võimalus saaks järgmiste ülesannetega varem alustada.
 3. Vajadusel aitame üksteist. 

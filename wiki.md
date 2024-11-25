@@ -6,10 +6,10 @@ Meie veebileht tutvustab lihtsaid ja maitsvaid toiduretsepte. Pealehel on erinev
 Kes on tiimiliikmed?\
 Tiimiliikmed - Karl Markus Kiudma, Andre Poll, Kristo Hark\
 Milline on tiimisisene tööjaotus?\
-Igal rühmaliikmel on oma vastutusalad.
-Karl Markus Kiudma vastutusalad - rühmatöö plaani esitamine, tähtaegadest kinni pidamine, JavaScript, esitluse kuupäeva valimine.
-Andre Poll vastutusalad - rühmasisene infovahetus, GitHubi repositooriumis kood, CSS, GitHubi branchid.
-Kristo Hark vastutusalad - koosolekud, veebileht kodulehele, pealeht ja kõrvallehed, GitHub projekti wiki.
+Igal rühmaliikmel on oma vastutusalad.\
+Karl Markus Kiudma vastutusalad - rühmatöö plaani esitamine, tähtaegadest kinni pidamine, JavaScript, esitluse kuupäeva valimine.\
+Andre Poll vastutusalad - rühmasisene infovahetus, GitHubi repositooriumis kood, CSS, GitHubi branchid.\
+Kristo Hark vastutusalad - koosolekud, veebileht kodulehele, pealeht ja kõrvallehed, GitHub projekti wiki.\
 
 
 Reeglid on jätkuvalt samad:

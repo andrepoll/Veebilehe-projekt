@@ -2,10 +2,10 @@
 # Projekti wiki Githubis vms keskkonnas sisaldab:
 
 Mida veebileht tutvustab või mis on selle lehe eesmärk?\
-Meie veebileht tutvustab lihtsaid ja maitsvaid toiduretsepte. Pealehel on erinevate retseptide nimekiri koos piltidega ja linkidega alamlehtedele. Igal alamlehel on illustreerivad pildid, vajalikud toorained ja juhised toitude valmistamiseks. Retseptidel saab märkida tehtuks koostisosad ja valmistamisetapid, pealehel on tervitustekst ja sujuv kerimine retseptidele.\
+Meie veebileht tutvustab lihtsaid ja maitsvaid toiduretsepte. Pealehel on erinevate retseptide nimekiri koos piltidega ja linkidega alamlehtedele. Igal alamlehel on illustreerivad pildid, vajalikud toorained ja juhised toitude valmistamiseks. Retseptidel saab märkida tehtuks koostisosad ja valmistamisetapid, pealehel on tervitustekst ja sujuv kerimine retseptidele.
 
 Kes on tiimiliikmed?\
-Tiimiliikmed - Karl Markus Kiudma, Andre Poll, Kristo Hark\
+Tiimiliikmed - Karl Markus Kiudma, Andre Poll, Kristo Hark
 
 Milline on tiimisisene tööjaotus?\
 Igal rühmaliikmel on oma vastutusalad.\
